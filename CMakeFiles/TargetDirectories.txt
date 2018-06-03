@@ -1,0 +1,3 @@
+/Users/binah/StudyFiles/GradeTwo/Spring/图形学/HW_2/PM/CMakeFiles/rebuild_cache.dir
+/Users/binah/StudyFiles/GradeTwo/Spring/图形学/HW_2/PM/CMakeFiles/edit_cache.dir
+/Users/binah/StudyFiles/GradeTwo/Spring/图形学/HW_2/PM/CMakeFiles/PM.dir
